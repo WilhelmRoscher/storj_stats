@@ -1,6 +1,6 @@
-**BROKEN!**
+**BROKEN and unmaintained**
 
-The Script is currently non functional.
+The Script is currently non functional. Because the new storj web dashboard provides all the information this script aimed to provide and more, i will not continue working on it.
 
 # storj_stats
 A bash script to access your Storj Stats using the dashboard API.
